@@ -8,9 +8,13 @@ Open `index.html` in a browser.
 
 ## GitHub Pages
 
-Recommended repository name:
+Repository:
 
-`economicsofinformality.github.io`
+`https://github.com/garciasuaza/economicsofinformality.github.io`
+
+Temporary public preview:
+
+`https://garciasuaza.github.io/economicsofinformality.github.io/`
 
 Publishing source:
 
@@ -20,6 +24,10 @@ Publishing source:
 ## Custom domain
 
 Canonical domain:
+
+`www.economicsofinformality.org`
+
+Status: temporarily disabled until the domain is purchased and DNS is configured. To enable it later, add a `CNAME` file with:
 
 `www.economicsofinformality.org`
 
