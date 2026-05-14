@@ -25,6 +25,12 @@ Canonical domain:
 
 The apex domain `economicsofinformality.org` should also point to GitHub Pages through A records.
 
+Because the current repository lives under `garciasuaza`, the DNS `www` CNAME target should be:
+
+`garciasuaza.github.io`
+
+If the repository is later transferred to an `economicsofinformality` organization, update the DNS target accordingly.
+
 ## Pending before launch
 
 - Replace the submission form link with the final Google Form that accepts PDF uploads.
