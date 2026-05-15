@@ -440,6 +440,12 @@ a {
   margin-top: 24px;
 }
 
+.submission-note {
+  margin-top: 16px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
 .launch-note {
   padding: 14px 16px;
   background: #fff7df;
