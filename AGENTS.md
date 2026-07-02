@@ -44,7 +44,7 @@ There is no automated test suite. Before committing, perform manual checks:
 - Search for outdated dates or names with `rg`, for example:
 
 ```powershell
-rg "July 15|Universicad|Andrea Otero" .
+rg "August 20|Andrea Otero|Banco de la" .
 ```
 
 ## Commit & Pull Request Guidelines
